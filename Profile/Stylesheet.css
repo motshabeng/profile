@@ -1,0 +1,184 @@
+
+.propic{
+  height: 250px;
+  width: 250px;
+  border-radius: 50%;
+background-color: lightgray;
+
+}
+
+.photo{
+   border: 10px solid rgb(138, 37, 37);
+   height: 300px;
+   background-color: lightgray;
+}
+
+h1{
+  font-size: 30px;  
+  color: black;
+}
+
+.contacts{text-align-last: right;}
+
+ .row{
+   display: flex;
+   justify-content: center;
+   margin-top: 5%;
+   border: solid;
+   
+ }
+
+
+  .contacts{
+    background-origin: padding-box;
+  }
+
+  
+
+
+.imgDiv{
+  display: flex;
+}
+  
+.imgs{
+  width: 10px;
+  height: 10px;
+}
+    
+    
+  .background-color{background-color:rgb(2, 43, 90) ;}
+
+  .icon{
+    width: 40px;
+    height: 30px;
+  }
+    
+    .text{
+      color: white;
+    }
+
+    .text > u > h1{
+      color: white;
+    }
+
+ 
+   .left{ border: 2 solid;
+   
+     background-color: white;
+     background-size: 10px;
+   }
+   
+ 
+  .right{
+    border: 15px solid;
+  }
+  
+   .h2{ 
+     text-emphasis-color: white;
+   }
+     
+   .h5{ 
+    text-emphasis-color: white;
+  }
+  
+  
+    
+  .h6{ 
+    text-emphasis-color: white;
+  }
+   
+
+ .li a{
+   display: block;
+   padding: 15px;
+   background-color: firebrick;
+   text-align: center;
+
+ }
+
+ li{
+   float: left;
+ }
+
+ button{
+   border-radius: 30%;
+ }
+ 
+   
+   
+   
+ 
+     
+   
+    
+  
+    
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+  
+  
+  
+    
+  
+    
+  
+    
+
+
+
+  
+  
+
+
+    
+
+  
+  
+
+
+
+
+
+
+
+
+
+
